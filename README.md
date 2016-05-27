@@ -9,4 +9,4 @@ This script also requires PowerPoint 2016. This may work on earlier versions of 
 ## Installation
 I use this script with [FastScripts](https://red-sweater.com/fastscripts/index.html "Link to FastScripts"), which makes it easy to launch the dialog via a shortcut from within PowerPoint 2016. This is especially true now that PowerPoint no longer has a dedicated Scripts menu.
 
-In FastScripts, create a application-specific folder if one doesn't exist for PowerPOint, then move this script file into that directory. You can add a keyboard shortcut from the FastScripts Preferences dialog box.
+In FastScripts, create a application-specific folder if one doesn't exist for PowerPoint, then move this script file into that directory. You can add a keyboard shortcut from the FastScripts Preferences dialog box.
